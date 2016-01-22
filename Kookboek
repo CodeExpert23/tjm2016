@@ -1,0 +1,17 @@
+
+<html>
+    <head></head>
+    <body>
+  
+ <script type="text/javascript" src="">
+     var Product1= prompt("What is your first product?");
+     var Product2= prompt("What is your second product?");
+     var Product3= prompt("What is your third product?");
+     
+     var Minutes= prompt("How many minutes does it take?")
+alert("mix the product" + "Product1" + "Product2" + "Product3" + "Minutes")
+ </script>
+
+    </body>
+</html>
+    
